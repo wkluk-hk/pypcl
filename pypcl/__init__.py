@@ -2,4 +2,4 @@
 import libpypcl
 from libpypcl import *
 
-from utils import *
+from pypcl.utils import *
